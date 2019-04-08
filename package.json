@@ -1,0 +1,10 @@
+{
+  "name": "@wongnai/rn-interview",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
+}
